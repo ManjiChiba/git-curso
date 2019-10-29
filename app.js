@@ -1,1 +1,1 @@
-console.log('hello MitoCode!');
+console.log('Hello MitoCode!');
